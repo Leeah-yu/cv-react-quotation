@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/cv-react-quotation/static/js/main.a9a2add9.js",
+    "static/js/977.a5cdf417.chunk.js": "/cv-react-quotation/static/js/977.a5cdf417.chunk.js",
+    "static/js/732.e824d291.chunk.js": "/cv-react-quotation/static/js/732.e824d291.chunk.js",
+    "index.html": "/cv-react-quotation/index.html",
+    "main.a9a2add9.js.map": "/cv-react-quotation/static/js/main.a9a2add9.js.map",
+    "977.a5cdf417.chunk.js.map": "/cv-react-quotation/static/js/977.a5cdf417.chunk.js.map",
+    "732.e824d291.chunk.js.map": "/cv-react-quotation/static/js/732.e824d291.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9a2add9.js"
+  ]
+}
